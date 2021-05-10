@@ -1,0 +1,13 @@
+{
+"debug": false,
+"user": "<<database-user>>",
+"password": "<<database-password>>",
+"host": "<<database-host>>",
+"port": 3306,
+"database": "<<database-name>>",
+"exclude_tables": [
+"<<database-old-tables>>",
+"migrations",
+"users"],
+"only_include_tables": []
+}
